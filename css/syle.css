@@ -1,0 +1,52 @@
+.i1 {
+    width: 400px ;
+    border-style: double;
+    border-width:20px ;
+    border-radius: 20px;
+    border-color: purple;
+    margin-left: 700px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: purple;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.i2 { 
+    width: 400px ;
+    border-style: double;
+    border-width:20px ;
+    border-radius: 20px;
+    border-color: purple;
+    margin-left: 700px;
+
+}
+
+.i3 {
+
+     width: 400px ;
+    border-style: double;
+    border-width:20px ;
+    border-radius: 20px;
+    border-color: purple;
+    margin-left: 700px;
+
+
+}
+
+body {
+    background: rgb(236, 223, 206);
+}
+
+hr {
+    color: purple;
+}
